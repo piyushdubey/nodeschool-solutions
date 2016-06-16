@@ -1,0 +1,23 @@
+{
+  "name": "@piyushdubey/how-to-npm-solution",
+  "version": "1.0.1",
+  "description": "Learning how to create npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/nodeschoolsolutions.git"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "module"
+  ],
+  "author": "Piyush Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
